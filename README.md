@@ -15,5 +15,5 @@
 <p><h3>Autor</h3> Gustavo Silva</p>
 
 <h3>Imagens do projeto</h3>
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
-![Design preview for the Testimonials grid section coding challenge](./design/mobile-design.jpg)
+<img alt="Imagem do projeto" src="./design/desktop-preview.jpg"/>
+<img alt="Imagem do projeto" src="./design/mobile-design.jpg"/>
