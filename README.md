@@ -12,7 +12,9 @@
 <img alt="Icone CSS" src="./images/css.png" style="width:50px;height:50px"/> 
 </div>
 
-<p><h3>Autor</h3> Gustavo Silva</p>
+<p><h3>Autor</h3> Frontend Mentor</p>
+
+<p><h3>Adaptação</h3> Gustavo Silva</p>
 
 <h3>Imagens do projeto</h3>
 <img alt="Imagem do projeto" src="./design/desktop-preview.jpg"/>
