@@ -8,8 +8,8 @@
 <h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/testimonials-grid/">Clique Aqui</a> 
 
 <div><p><h3>Linguagens</h3></p>
-<img alt="Icone HTML" src="./images/html.png" style="width:50px;height:50px"/> 
-<img alt="Icone CSS" src="./images/css.png" style="width:50px;height:50px"/> 
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <p><h3>Autor</h3> Frontend Mentor</p>
