@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/STATUS%20-Pronto-sucess"/>
 
 <h3>Descrição do projeto</h3>
-<p>Projeto realizado como treinamento, utilizando como base o projeto do site Frontend Mentor</p>
+<p>Projeto realizado como treinamento, utilizando como base o projeto do site Frontend Mentor.</p>
 
 <h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/testimonials-grid/">Clique Aqui</a> 
 
